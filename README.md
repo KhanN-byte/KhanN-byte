@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Haris, a passionate Software Engineer with a k
 
 ## 💼 Experience
 
-- Over 5 years of technical engineering experience within the Softare/IT space, ranging from web-development all the way to Salesforce technology implementing specific CRM Solutions for Customers within the 5G wireless, financial, and communications sector.
+- Over 5 years of technical engineering experience within the Software/IT space, ranging from web-development all the way to Salesforce technology implementing specific CRM Solutions for Customers within the 5G wireless, financial, and communications sector.
 - 5 x Salesforce Developer (certified)
 - and, during the day I am a coder (Python, Apex (Salesforce) and during the night, I write content for [In Plain English](https://plainenglish.io/) (Stackademic channel) on their Medium platform.
 - Follow me on [Medium](https://medium.com/@haris7991)!

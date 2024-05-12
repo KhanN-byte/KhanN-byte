@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm Haris, a passionate Software Engineer with a k
 - Currently working on expanding my Linux skills and independent Python projects that touch on different areas like ML, AI and OpenAI.
 - Exploring Python, JavaScript and OpenAI to deepen my understanding and broaden my skill set.
 
+- Current 2 Github Repos - [Python](https://github.com/KhanN-byte/Python) & [Practice_Python](https://github.com/KhanN-byte/Practice_Python)
+
 ## 🌱 What I'm Learning
 
 - Delving into statistical analysis and machine learning models to predict probable events and to enhance my expertise and stay up-to-date with the latest trends.

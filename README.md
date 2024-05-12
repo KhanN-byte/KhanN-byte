@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm Haris, a passionate Software Engineer with a k
 
 ## ⚡ Fun Fact
 
-I love hiking, fishing, and being able to contribute to the environment in a positive way!
+I love hiking and fishing...
 
 Cricket 🏏 is my passion...
 

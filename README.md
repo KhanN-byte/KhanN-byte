@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Haris, a passionate Software Engineer with a k
 
 ## 💼 Experience
 
-- During the day I am a coder (Python, Apex (Salesforce) and during the night, I write content for In Plain English (Stackademic) on their Medium platform.
+- During the day I am a coder (Python, Apex (Salesforce) and during the night, I write content for [In Plain English](https://plainenglish.io/) (Stackademic) on their Medium platform.
 - Follow me on [Medium](https://medium.com/@haris7991)!
 
 ## 👯‍♀️ Let's Collaborate!

@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm Haris, a passionate Software Engineer with a keen interest in Python (web development, data statistical analysis using NumPy/Pandas, micro-services APIs), JavaScript for front-end services, and many other elements that make engineering products interesting as a whole. I love crafting innovative solutions to complex problems and constantly pushing the boundaries of technology.
+Welcome to my GitHub profile! I'm Haris, a passionate Software Engineer with a keen interest in Python (web development, data statistical analysis using NumPy/Pandas, micro-services APIs), JavaScript for front-end services, and many other elements that make engineering products interesting as a whole. I take passion in crafting innovative solutions to complex problems and constantly pushing the boundaries of technology.
 
 ## 🔭 Current Focus
 

@@ -30,4 +30,3 @@ Technical writer for In Plain English (Stackademic / Medium)
 🤝 Collaboration:
 
 Always open to collaboration on practical, learning-driven projects.
-Linkedin: https://www.linkedin.com/in/khan-haris/

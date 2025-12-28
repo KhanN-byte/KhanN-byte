@@ -1,39 +1,21 @@
-# Hey there! 👋
+👋 Hi, I’m Haris — a Software Engineer focused on Python, C++, Linux, and backend systems.
 
-Welcome to my GitHub profile! I'm Haris, a passionate Software Engineer with a keen interest in Python (web development, data statistical analysis using NumPy/Pandas, micro-services APIs), JavaScript for front-end services, and many other elements that make engineering products interesting as a whole. I take passion in crafting innovative solutions to complex problems and constantly pushing the boundaries of technology.
+I work primarily with Python 3 (automation, data analysis with NumPy/Pandas, APIs), C++ for systems-level and performance-oriented work, JavaScript, and Salesforce (Apex/LWC). I enjoy building small, focused projects to strengthen fundamentals, explore system behavior, and automate real-world problems.
 
-## 🔭 Current Focus
+Current focus
 
-- Currently working on expanding my Linux skills and independent Python projects that touch on different areas like ML, AI and OpenAI.
-- Exploring Python, JavaScript and OpenAI to deepen my understanding and broaden my skill set.
+Linux / Ubuntu fundamentals
 
-- Current 2 Github Repos - [Python](https://github.com/KhanN-byte/Python) & [Practice_Python](https://github.com/KhanN-byte/Practice_Python)
+Python & C++ mini-projects (automation, systems, APIs)
 
-## 🌱 What I'm Learning
+ML / AI experimentation and tooling
 
-- Delving into statistical analysis and machine learning models to predict probable events and to enhance my expertise and stay up-to-date with the latest trends.
-- Currnetly, improving my proficiency in Linux, Ubuntu, Python3, JavaScript, Automating day-to-day tasks using Cronjobs and learning more about Salesforce technology.
+Background
 
-## 💼 Experience
+5+ years in software engineering across web, backend, and CRM platforms
 
-- Over 5 years of technical engineering experience within the Software/IT space, ranging from web-development all the way to Salesforce technology implementing specific CRM Solutions for Customers within the 5G wireless, financial, and communications sector.
-- 5 x Salesforce Developer (certified)
-- and, during the day I am a coder (Python, Apex (Salesforce) and during the night, I write content for [In Plain English](https://plainenglish.io/) (Stackademic channel) on their Medium platform.
-- Follow me on [Medium](https://medium.com/@haris7991)!
+Salesforce Developer (multiple certifications)
 
-## 👯‍♀️ Let's Collaborate!
+Technical writer for In Plain English (Stackademic / Medium)
 
-- I'm always open to collaboration and new opportunities. Feel free to reach out to me if you have any interesting projects or ideas.
-
-## 📫 Get in Touch
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/khan-haris/)
-- StackOverflow Profile [Stack Overflow](https://stackoverflow.com/users/5387290/data-is-everything)
-
-## ⚡ Fun Fact
-
-I love hiking and fishing...
-
-Cricket 🏏 is my passion...
-
-Thanks for stopping by! I'm excited to connect with you and explore new possibilities together.
+Always open to collaboration on practical, learning-driven projects.

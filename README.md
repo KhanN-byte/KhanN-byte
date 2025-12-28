@@ -1,4 +1,5 @@
-👋 Hi, I’m Haris
+👋 Hi, I’m Haris 
+
 Software Engineer — Python | C++ | Linux | Backend Systems
 
 I work primarily with Python 3 (automation, data analysis with NumPy/Pandas, APIs), C++ for systems-level and performance-oriented work, JavaScript, and Salesforce (Apex / LWC).

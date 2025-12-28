@@ -1,9 +1,8 @@
 👋 Hi, I’m Haris 
 
-Software Engineer — Python | C++ | Linux | Backend Systems
+Software Engineer — Python | C++ | Linux | Backend Systems 
 
-I work primarily with Python 3 (automation, data analysis with NumPy/Pandas, APIs), C++ for systems-level and performance-oriented work, JavaScript, and Salesforce (Apex / LWC).
-I enjoy building small, focused projects to strengthen fundamentals, explore system behavior, and automate real-world problems.
+I build backend and systems-oriented software using Python and C++, with an emphasis on correctness, performance, and maintainability. My work spans automation, API development, and low-level problem solving, complemented by experience with JavaScript and Salesforce (Apex / LWC). I prefer hands-on projects that deepen understanding of system behavior and turn practical problems into clean, reliable code.
 
 Current Projects:
 

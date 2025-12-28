@@ -25,6 +25,7 @@ Background:
 Salesforce Developer (multiple certifications)
 
 Technical writer for In Plain English (Stackademic / Medium)
+Medium: https://medium.com/@haris7991
 
 🤝 Collaboration:
 

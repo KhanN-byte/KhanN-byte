@@ -10,6 +10,8 @@ Password strength checker built using Python + C++, combining high-level validat
 
 Google SEO tooling using Python automation, focused on keyword analysis, ranking insights, and optimization workflows
 
+A ML application that can analyze pictures/photos to determines one's gender, age, race, emotion. 
+
 Current Focus:
 
 Linux / Ubuntu fundamentals

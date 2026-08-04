@@ -1,35 +1,48 @@
-👋 Hi, I’m Haris 
+# Haris Khan
 
-Software Engineer — Python | C++ | Linux | Backend Systems 
+**Software Developer · Backend Systems · APIs · Automation**
 
-I build backend and systems-oriented software using Python and C++, with an emphasis on correctness, performance, and maintainability. My work spans automation, API development, and low-level problem solving, complemented by experience with JavaScript and Salesforce (Apex / LWC). I prefer hands-on projects that deepen understanding of system behavior and turn practical problems into clean, reliable code.
+I’m a software developer with over 7 years of experience building reliable backend services, enterprise integrations, automation workflows, and customer-facing software. I focus on understanding the real constraint, choosing a practical design, and leaving systems easier to maintain.
 
-Current Projects:
+## What I work on
 
-Password strength checker built using Python + C++, combining high-level validation with low-level performance and security concepts
+- Backend services and REST API integrations
+- Workflow and data-pipeline automation
+- Developer tooling and maintainable system architecture
+- Enterprise platforms and customer-facing applications
+- Reliability, performance, and delivery improvements
 
-Google SEO tooling using Python automation, focused on keyword analysis, ranking insights, and optimization workflows
+## Selected projects
 
-A ML application that can analyze pictures/photos to determines one's gender, age, race, emotion. 
+### [CodeGuardian](https://github.com/KhanN-byte/CodeGuardian)
 
-Current Focus:
+A Roslyn-powered .NET CLI that enforces architecture boundaries, identifies risky C# patterns, and detects breaking public API changes. Includes configurable rules, CI-friendly output, automated tests, and a sample solution.
 
-Linux / Ubuntu fundamentals
+**C# · .NET 10 · Roslyn · CLI**
 
-Python & C++ mini-projects (automation, systems, APIs)
+### [TaskPilot](https://github.com/KhanN-byte/TaskPilot)
 
-ML / AI experimentation and tooling
+A focused C# task-management CLI with priorities, due dates, reporting, and portable JSON persistence. Designed around a simple command workflow with testable storage and application layers.
 
-Background:
+**C# · .NET 10 · JSON · CLI**
 
-5+ years in software engineering across web, backend, and CRM platforms
+### [Python Automation Lab](https://github.com/KhanN-byte/Python)
 
-Salesforce Developer (multiple certifications)
+A collection of practical Python work covering validation, API automation, data processing, SEO analysis, and reusable workflow improvements.
 
-Technical writer for In Plain English (Stackademic / Medium)
- 
- Medium: https://medium.com/@haris7991
+**Python · REST APIs · Automation · Data**
 
-🤝 Collaboration:
+## Core technologies
 
-Always open to collaboration on practical, learning-driven projects.
+- **Languages:** C#, Python, Java, C++, JavaScript, TypeScript, SQL
+- **Backend:** .NET, REST, SOAP, API contracts, authentication, data pipelines
+- **Frontend & platforms:** React, HTML/CSS, Salesforce, Lightning Web Components
+- **Data & delivery:** MySQL, MariaDB, Docker, Git, CI workflows, Linux
+
+## Professional focus
+
+I currently work full-time and am available for select freelance projects and clearly scoped consulting engagements involving APIs, automation, backend systems, or enterprise platforms.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/khan-haris/)

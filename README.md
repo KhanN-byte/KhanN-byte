@@ -1,8 +1,8 @@
 # Haris Khan
 
-**Software Developer · Backend Systems · APIs · Automation**
+**Software Engineer · Backend Systems · APIs · Automation**
 
-I’m a software developer with over 7 years of experience building reliable backend services, enterprise integrations, automation workflows, and customer-facing software. I focus on understanding the real constraint, choosing a practical design, and leaving systems easier to maintain.
+I’m a software engineer with over 7 years of experience building reliable backend services, enterprise integrations, automation workflows, and customer-facing software. I focus on understanding the real constraint, choosing a practical design, and leaving systems easier to maintain.
 
 ## What I work on
 

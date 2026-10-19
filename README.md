@@ -66,7 +66,7 @@ C# · C++ · Python · Java · JavaScript · TypeScript · SQL · Apex
 .NET 10 · REST APIs · SOAP · Distributed Systems · Enterprise Integrations · Authentication · API Design
 
 **Cloud & Enterprise Platforms**
-Microsoft Azure · AWS · Salesforce · Lightning Web Components
+Microsoft Azure · OpenTelemetry · AWS · Salesforce · Lightning Web Components
 
 **Frontend**
 React · HTML · CSS · JavaScript

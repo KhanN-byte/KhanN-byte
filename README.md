@@ -1,48 +1,90 @@
+
 # Haris Khan
 
-**Software Engineer · Backend Systems · APIs · Automation**
+**Software Engineer | Backend & Distributed Systems | Cloud & Enterprise Platforms**
 
-I’m a software engineer with over 7 years of experience building reliable backend services, enterprise integrations, automation workflows, and customer-facing software. I focus on understanding the real constraint, choosing a practical design, and leaving systems easier to maintain.
+Software engineer with 7+ years of experience designing, developing, and modernizing reliable, scalable software across backend systems, cloud platforms, and enterprise applications.
 
-## What I work on
+My work spans distributed systems, APIs, enterprise integrations, CRM platforms, and platform modernization. I focus on solving complex engineering challenges, improving system reliability and performance, reducing technical debt, and building software that is easier to maintain, operate, and scale.
 
-- Backend services and REST API integrations
-- Workflow and data-pipeline automation
-- Developer tooling and maintainable system architecture
-- Enterprise platforms and customer-facing applications
-- Reliability, performance, and delivery improvements
+My engineering approach emphasizes **clean architecture, clear system boundaries, observability, maintainability, and pragmatic technical decisions**. I work across the software development lifecycle, from architecture and solution design through implementation, deployment, monitoring, and continuous improvement.
 
-## Selected projects
+## Engineering Focus
 
-### [CodeGuardian](https://github.com/KhanN-byte/CodeGuardian)
+- **Backend & Distributed Systems:** Designing reliable services, APIs, application architectures, and enterprise integrations.
+- **Cloud & Enterprise Platforms:** Building and integrating solutions across Microsoft Azure, AWS, Salesforce, and business-critical systems.
+- **System Modernization:** Refactoring legacy applications, improving performance, reducing technical debt, and strengthening maintainability.
+- **Reliability & Observability:** Improving operational visibility, service resilience, diagnostics, and system performance.
+- **Technical Leadership:** Guiding architectural decisions, mentoring engineers, conducting code reviews, and delivering production-ready solutions.
 
-A Roslyn-powered .NET CLI that enforces architecture boundaries, identifies risky C# patterns, and detects breaking public API changes. Includes configurable rules, CI-friendly output, automated tests, and a sample solution.
+## Professional Experience
 
-**C# · .NET 10 · Roslyn · CLI**
+I currently contribute to and lead the development of software platforms and integrations supporting critical veterinary diagnostic and business operations at **Antech**.
+
+My work includes designing and implementing backend services and core application logic using **C# and .NET**, modernizing existing systems, strengthening enterprise integrations, and improving application reliability and operational efficiency.
+
+I also develop cloud and CRM solutions across **Microsoft Azure and Salesforce**, including custom development using Apex, JavaScript, and Lightning Web Components.
+
+Beyond implementation, I contribute to architectural and technical decisions, mentor fellow engineers, and collaborate with cross-functional teams to deliver scalable, maintainable solutions.
+
+## Selected Projects
+
+### [CodeGuardian](https://github.com/KhanN-byte/CodeEnhancement)
+
+A Roslyn-powered .NET CLI focused on improving C# code quality and architectural integrity.
+
+- Enforces architectural boundaries and configurable rules.
+- Identifies potentially risky C# patterns.
+- Detects breaking changes to public APIs.
+- Supports automated testing and CI-friendly output.
+
+**Technologies:** C# · .NET 10 · Roslyn · CLI
 
 ### [TaskPilot](https://github.com/KhanN-byte/TaskPilot)
 
-A focused C# task-management CLI with priorities, due dates, reporting, and portable JSON persistence. Designed around a simple command workflow with testable storage and application layers.
+A lightweight task-management CLI built with C# and .NET, emphasizing straightforward workflows and maintainable application design.
 
-**C# · .NET 10 · JSON · CLI**
+- Task prioritization and due-date management.
+- Reporting and task organization.
+- Portable JSON-based persistence.
+- Separation of application logic and storage concerns.
+
+**Technologies:** C# · .NET 10 · JSON · CLI
 
 ### [Python Automation Lab](https://github.com/KhanN-byte/Python)
 
-A collection of practical Python work covering validation, API automation, data processing, SEO analysis, and reusable workflow improvements.
+A collection of practical Python projects exploring automation, API integration, data processing, and reusable development workflows.
 
-**Python · REST APIs · Automation · Data**
+**Technologies:** Python · REST APIs · Automation · Data Processing
 
-## Core technologies
+## Technical Stack
 
-- **Languages:** C#, Python, Java, C++, JavaScript, TypeScript, SQL
-- **Backend:** .NET (10), REST, SOAP, API contracts, authentication, data pipelines
-- **Frontend & platforms:** React, HTML/CSS, Salesforce, Lightning Web Components
-- **Data & delivery:** MySQL, MariaDB, Docker, Git, CI workflows, Linux
+**Languages**
+C# · C++ · Python · Java · JavaScript · TypeScript · SQL · Apex
 
-## Professional focus
+**Backend & Integration**
+.NET 10 · REST APIs · SOAP · Distributed Systems · Enterprise Integrations · Authentication · API Design
 
-I currently work full-time and am available for select freelance projects and clearly scoped consulting engagements involving APIs, automation, backend systems, or enterprise platforms.
+**Cloud & Enterprise Platforms**
+Microsoft Azure · AWS · Salesforce · Lightning Web Components
+
+**Frontend**
+React · HTML · CSS · JavaScript
+
+**Data & Engineering Tools**
+MySQL · MariaDB · Docker · Git · CI/CD · Linux · Automation
+
+## Current Interests
+
+I'm particularly interested in:
+
+- Backend architecture and distributed systems.
+- Cloud-native application design and enterprise platform engineering.
+- Developer tooling, code analysis, and software maintainability.
+- Application observability, reliability, and performance engineering.
+- AI-enabled applications and their integration with traditional software systems.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/khan-haris/)
+- **LinkedIn:** [linkedin.com/in/khan-haris](https://www.linkedin.com/in/khan-haris/)
+- **GitHub:** [github.com/KhanN-byte](https://github.com/KhanN-byte)

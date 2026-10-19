@@ -35,7 +35,7 @@ A collection of practical Python work covering validation, API automation, data 
 ## Core technologies
 
 - **Languages:** C#, Python, Java, C++, JavaScript, TypeScript, SQL
-- **Backend:** .NET, REST, SOAP, API contracts, authentication, data pipelines
+- **Backend:** .NET (10), REST, SOAP, API contracts, authentication, data pipelines
 - **Frontend & platforms:** React, HTML/CSS, Salesforce, Lightning Web Components
 - **Data & delivery:** MySQL, MariaDB, Docker, Git, CI workflows, Linux
 
